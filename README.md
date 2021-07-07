@@ -13,7 +13,7 @@ Users can search repositories by names. The application returns repositories wit
 ##### Filter by languages
 While searching, users can choose to filter repositories in certain languages. If no specific language is selected, the application searches for corresponding repositories in all languages.
 
-##### Sort
+##### Sort results
 Users can sort the results by name, language and number of stars, by clicking on the column names.
 
 ### References
