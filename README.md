@@ -1,7 +1,6 @@
 ## Repo Finder
 **An application for searching repositories in GitHub.** The searching results are shown in a paginated table.
 
-### Screenshot
 <p align="center">
   <img src="https://raw.githubusercontent.com/kanapki/repo-finder/master/screenshots/screenshot1.png" width="600">
 </p>
