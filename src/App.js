@@ -24,7 +24,6 @@ function App() {
     multiselectRef.current.resetSelectedValues()
     setName('')
     setLanguages([])
-    console.log('clear')
   }
 
   const handleSearch = async () => {
@@ -36,7 +35,6 @@ function App() {
     const octokit = new Octokit({
       auth: token
     });
-    //const octokit = new Octokit()
 
     const q_lang = []
     languages.forEach((lang, i) => {
@@ -74,7 +72,6 @@ function App() {
     if (count > 100) {
       const getCnt = Math.ceil((count - 100) / 100)
       for (let i = 1; i <= getCnt; i++) {
-        console.log(i)
         page = i + 1
         const res = await octokit.rest.search.repos({
           q,
