@@ -16,7 +16,7 @@ Users can sort the results by name, language and number of stars, by clicking on
 #### Show more information
 Users can view more information, such as the owner and the description of each repository, by clicking on the arrow next to the repository name.
 
-### References
+### Packages used
 - [@octokit/rest](https://octokit.github.io/rest.js/v18)
 - [multiselect-react-dropdown](https://github.com/srigar/multiselect-react-dropdown)
 - [react-data-table-component](https://github.com/jbetancur/react-data-table-component)
