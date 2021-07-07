@@ -10,11 +10,13 @@
 #### Search by names
 Users can search repositories by names. The application returns repositories with names containing the keyword.  
 #### Filter by languages
-While searching, users can choose to filter repositories in certain languages. If no specific language is selected, the application searches for corresponding repositories in all languages.  
+While searching, users can choose to filter repositories in certain languages. If no specific language is selected, the application searches for repositories in all languages.  
 #### Sort results
 Users can sort the results by name, language and number of stars, by clicking on the column names.  
 #### Show more information
 Users can view more information, such as the owner and the description of each repository, by clicking on the arrow next to the repository name.
+#### Clear input
+Users can clear all input fields by clicking on the clear button.
 
 ### Packages used
 - [@octokit/rest](https://octokit.github.io/rest.js/v18)
