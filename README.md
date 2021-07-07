@@ -17,7 +17,7 @@ While searching, users can choose to filter repositories in certain languages. I
 Users can sort the results by name, language and number of stars, by clicking on the column names.
 
 ##### Show more information
-Users view more information, such as the owner and the description of each repository, by clicking on the arrow next to the repository name.
+Users can view more information, such as the owner and the description of each repository, by clicking on the arrow next to the repository name.
 
 ### References
 - [@octokit/rest](https://octokit.github.io/rest.js/v18)
