@@ -16,7 +16,7 @@ Users can sort the results by name, language and number of stars, by clicking on
 #### Show more information
 Users can view more information, such as the owner and the description of each repository, by clicking on the arrow next to the repository name.
 #### Clear input
-Users can clear all input fields by clicking on the clear button.
+Users can clear all input fields by clicking on the "Clear" button.
 
 ### Packages used
 - [@octokit/rest](https://octokit.github.io/rest.js/v18)
